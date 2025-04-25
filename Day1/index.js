@@ -1,1 +1,1 @@
-console.log("welcome to WS");
+console.log("welcome to beginning journey of  MERN STACK DEVELOPER");
